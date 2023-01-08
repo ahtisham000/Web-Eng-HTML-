@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B5FDF2CF-DD3D-4717-8480-32A38A17018D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MessManagemenSystem</RootNamespace>
+    <AssemblyName>MessManagemenSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassAccount.cs" />
+    <Compile Include="UIAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIAttendance.Designer.cs">
+      <DependentUpon>UIAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassAttendance.cs" />
+    <Compile Include="FormChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangePassword.Designer.cs">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UICustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UICustomer.Designer.cs">
+      <DependentUpon>UICustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassCustomer.cs" />
+    <Compile Include="ClassDatabase.cs" />
+    <Compile Include="UIEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIEmployee.Designer.cs">
+      <DependentUpon>UIEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassEmployee.cs" />
+    <Compile Include="Formlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlogin.Designer.cs">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSideBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>FormSideBar.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClassItem.cs" />
+    <Compile Include="UIMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIMenu.Designer.cs">
+      <DependentUpon>UIMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassMenu.cs" />
+    <Compile Include="UIPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIPayment.Designer.cs">
+      <DependentUpon>UIPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UIStatistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIStatistics.Designer.cs">
+      <DependentUpon>UIStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassSupplier.cs" />
+    <EmbeddedResource Include="UIAttendance.resx">
+      <DependentUpon>UIAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangePassword.resx">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UICustomer.resx">
+      <DependentUpon>UICustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIEmployee.resx">
+      <DependentUpon>UIEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlogin.resx">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSideBar.resx">
+      <DependentUpon>FormSideBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIMenu.resx">
+      <DependentUpon>UIMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIPayment.resx">
+      <DependentUpon>UIPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UIStatistics.resx">
+      <DependentUpon>UIStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,41 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>Lab_06</title>
+    <script>
+        $(function () {
+        $("img").click(function () {
+            var cv = $(this).attr("src");
+            if (cv == "bulb.png") {
+                $(this).attr("src", "images.png");
+            }
+            else {
+                $this.attr("src", "bulb.png");
+            }
+        });
+        $("input").keyup(function () {  
+            $(this).val($(this).val().toUpperCase());  
+            
+        }); 
+        
+    });   
+    </script>
+</head>
+<body>
+    <img src="bulb.png" alt="">
+    <div>  
+        <input type="text">
+    </div>
+    <div>
+        <input type="number" id="num1" value="0">
+        <input type="number" id="num2" value="0">
+        <input type="text" id="display" value="">
+    </div>
+
+</body>
+
+</html>

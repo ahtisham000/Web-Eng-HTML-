@@ -1,0 +1,19 @@
+.card-img-top{
+    border: 1px solid black;
+}
+.card-img-top:hover{
+    filter: grayscale(100%);
+}
+@keyframes enlarge {
+    from {
+        width: 100%;
+    }
+    to {
+        width: 200%;
+    } 
+}
+.card-img-top:hover{
+    animation-name: enlarge;
+    animation-duration: 2s;
+    box-shadow: 0px 10px 10px 0px;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Mid Evaluation.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>Mid Evaluation</title>
+    <script>
+         $(function(){
+            $(".img").dblclick(function(){
+
+                alert($("this").width);
+
+            });
+
+            $(".image-card").dblclick(function () {
+                var cv = $(this).attr("src");
+                if (cv == "mid.png") {
+                    $(this).attr("src", "pic2.png");
+                }
+                else {
+                    $(this).attr("src", "pic1.png");
+                }
+            });
+            
+        })
+    </script>
+</head>
+
+<body>
+    <div class="parent">
+        <div class="card">
+            <img src="mid.jpg" class="image-card">
+            <p class="title">I Am Title</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit, possimus consequuntur ut, eligendi rem repudiandae unde harum consectetur in totam error facere numquam eos molestias veniam assumenda sequi. Excepturi, numquam.</p>
+        </div>
+        <div class="card">
+            <img src="mid.jpg" class="image-card">
+            <p class="title">I Am Title</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. In incidunt amet obcaecati odio numquam, porro tenetur nostrum dolores aut veniam reiciendis minima, blanditiis nihil fugit tempora quo earum, sunt aperiam?</p>
+        </div>
+        <div class="card">
+            <img src="mid.jpg" class="image-card">
+            <p class="title">I Am Title</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem eum atque nihil debitis sapiente labore, odit, tenetur quam quisquam aperiam sint deleniti error incidunt ipsa quasi aliquam minus dolor perferendis.</p>
+        </div>
+    </div>
+       
+        
+    
+</body>
+</html>

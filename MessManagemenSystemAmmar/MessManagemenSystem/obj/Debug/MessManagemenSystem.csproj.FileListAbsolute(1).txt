@@ -1,0 +1,117 @@
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Customer.resources
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Employee.resources
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form1.resources
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Menu.resources
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.Cache
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+c:\users\dr. zulfiqar ali\documents\visual studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+C:\Users\Dr. Zulfiqar Ali\Documents\Visual Studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Attendance.resources
+C:\Users\Dr. Zulfiqar Ali\Documents\Visual Studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Payment.resources
+C:\Users\Dr. Zulfiqar Ali\Documents\Visual Studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Statistics.resources
+C:\Users\Dr. Zulfiqar Ali\Documents\Visual Studio 2013\Projects\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Attendance.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Customer.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Employee.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form1.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Menu.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Payment.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Statistics.resources
+C:\Users\Ammar raza\Desktop\Ammar_1120\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.Cache
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Attendance.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.ChangePasswordForm.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Customer.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Employee.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form1.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Menu.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Payment.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Statistics.resources
+C:\Users\Ahtisham\Desktop\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.Cache
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Attendance.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.ChangePasswordForm.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Customer.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Employee.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form1.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Menu.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Payment.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Statistics.resources
+C:\Users\Ahtisham\Documents\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.Cache
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Attendance.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.ChangePasswordForm.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Customer.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Employee.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form1.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Menu.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Payment.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Statistics.resources
+C:\Users\Ahtisham\Documents\Custom Office Templates\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.Cache
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Attendance.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.ChangePasswordForm.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Customer.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Employee.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form1.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Menu.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Payment.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Statistics.resources
+C:\Users\Ammar raza\Documents\.idea\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.Cache
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe.config
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.exe
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\bin\Debug\MessManagemenSystem.pdb
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.AssemblyReference.cache
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.SuggestedBindingRedirects.cache
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Form2.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Properties.Resources.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.GenerateResource.cache
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.csproj.CoreCompileInputs.cache
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.exe
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.pdb
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.UIAttendance.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.FormChangePassword.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.UICustomer.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.UIEmployee.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.Formlogin.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.UIMenu.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.UIPayment.resources
+D:\A_news_project\MessManagemenSystem\MessManagemenSystem\obj\Debug\MessManagemenSystem.UIStatistics.resources
